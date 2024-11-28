@@ -1,4 +1,4 @@
-# TWRP Device Tree for Samsung Galaxy S23 Ultra
+# OrangeFox Recovery Device Tree for Samsung Galaxy S23 Ultra
 
 ## For Decryption
 Download [DECRYPT_RW.img.tar](https://github.com/Archer3770/Release/releases/download/Release/USERDATA_AIO_SM-S918x_DECRYPT_RW.img.tar) 
